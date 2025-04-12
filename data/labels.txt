@@ -1,0 +1,10 @@
+# List of traffic signs
+Cam re trai
+Giao nhau voi duong uu tien
+Cam do xe ngay le
+Cam do xe ngay chan
+Duong giao nhau
+Cam di nguoc chieu
+Noi giao nhau theo vong xuyen
+Giao nhau voi duong khong uu tien
+Cam do xe

@@ -1,0 +1,32 @@
+QWidget {
+    background-color: white;
+    font-family: Arial;
+    color: black;
+}
+
+QLabel {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+QPushButton {
+    background-color: white;
+    border-radius: 20px;
+    border: 2px solid #bdc3c7;
+    padding: 10px;
+    font-size: 16px;
+}
+
+QPushButton:hover {
+    background-color: #f0f0f0;
+}
+QPushButton#carButton, QPushButton#truckButton {
+    background-color: white;  /* Nền trắng */
+    border-radius: 20px;  /* Bo góc */
+    border: 2px solid #bdc3c7;  /* Viền xám */
+    padding: 10px;
+}
+
+QPushButton#carButton:hover, QPushButton#truckButton:hover {
+    background-color: #f0f0f0;  /* Màu sáng khi hover */
+}
